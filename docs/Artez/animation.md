@@ -3,6 +3,10 @@
 网页: https://www.artez.nl/en/courses/bachelor/animation-design
 ---
 # 动画
+
+- 学校： [Artez](https://www.artez.nl)
+- 城市： Zwolle, 荷兰
+- 网页：[www.artez.nl/en/courses/bachelor/animation-design](www.artez.nl/en/courses/bachelor/animation-design)
 ## [概况](https://www.artez.nl/en/courses/bachelor/animation-design)
 ### 动画设计课程
 在荷兰兹沃勒（Zwolle）ArtEZ 开设的四年制动画设计高等专业课程1。该课程教授学生如何以讲故事者、插图画家、故事板设计师、动画师和导演的身份从头到尾开发一部电影2。

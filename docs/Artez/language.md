@@ -2,7 +2,6 @@
 网页: https://www.artez.nl/en/language-requirements-english-language-bachelor-course
 ---
 英语学士课程您申请的是英语学士学位课程。
-
 ## 语言要求
 - 雅思（IELTS）学术类 5.5（不接受雅思在线考试
 - 托福 iBT 70 分（不接受家庭版托福成绩）
