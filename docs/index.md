@@ -3,7 +3,8 @@
 ## Artez
 
 网站： https://www.artez.nl/
+
 地位： Zwolle, NL
 
-- [[动画]]
+- [[animation]]
 
